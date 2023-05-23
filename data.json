@@ -47,5 +47,29 @@
     "name": "8",
     "image": "https://uploads-ssl.webflow.com/6465ee796174bc9ab6e897f2/646b70dff6907682fc12869b_your-history-image__poster%402.jpg",
     "description": "Какой-то текст"
+  },
+  {
+    "num": "9",
+    "name": "9",
+    "image": "https://uploads-ssl.webflow.com/6465ee796174bc9ab6e897f2/646b70dff6907682fc12869b_your-history-image__poster%402.jpg",
+    "description": "Какой-то текст"
+  },
+  {
+    "num": "10",
+    "name": "10",
+    "image": "https://uploads-ssl.webflow.com/6465ee796174bc9ab6e897f2/646b70dff6907682fc12869b_your-history-image__poster%402.jpg",
+    "description": "Какой-то текст"
+  },
+  {
+    "num": "11",
+    "name": "11",
+    "image": "https://uploads-ssl.webflow.com/6465ee796174bc9ab6e897f2/646b70dff6907682fc12869b_your-history-image__poster%402.jpg",
+    "description": "Какой-то текст"
+  },
+  {
+    "num": "12",
+    "name": "12",
+    "image": "https://uploads-ssl.webflow.com/6465ee796174bc9ab6e897f2/646b70dff6907682fc12869b_your-history-image__poster%402.jpg",
+    "description": "Какой-то текст"
   }
 ]
