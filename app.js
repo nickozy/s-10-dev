@@ -1,4 +1,4 @@
-fetch("http://127.0.0.1:5500/data.json")
+fetch("https://preeminent-taffy-d88f8d.netlify.app/data.json")
   .then((response) => response.json())
   .then((item) => {
     localStorage.setItem("item", JSON.stringify(item));
