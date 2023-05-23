@@ -26,7 +26,9 @@ app.listen(PORT, HOST, () => {
 
 // >CORS
 
-fetch("https://preeminent-taffy-d88f8d.netlify.app/data.json")
+fetch(
+  "https://uploads-ssl.webflow.com/6465ee796174bc9ab6e897f2/646cbb0530c08c80dd8a263f_data.txt"
+)
   .then((response) => response.json())
   .then((item) => {
     localStorage.setItem("item", JSON.stringify(item));
